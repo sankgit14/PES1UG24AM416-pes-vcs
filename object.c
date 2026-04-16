@@ -179,3 +179,4 @@ if (memcmp(computed_id.hash, id->hash, HASH_SIZE) != 0) {
     free(buffer);
     return 0;
 }// phase 1 step 2
+// phase 1 step 3
