@@ -180,3 +180,4 @@ if (memcmp(computed_id.hash, id->hash, HASH_SIZE) != 0) {
     return 0;
 }// phase 1 step 2
 // phase 1 step 3
+// phase 1 step 4
